@@ -1,0 +1,22 @@
+.gridway {
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(1, 1fr);
+    align-items: flex-start;
+    margin-left: 195px;
+    margin-right: 240px;
+}
+
+.text {
+    background-color: white;
+}
+
+.safety_profile {
+    background-color: white;
+    padding-left: 60px;
+}
+
+.news {
+    background-color: orange;
+}
